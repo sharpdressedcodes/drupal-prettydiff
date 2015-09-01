@@ -1,0 +1,6 @@
+name = PrettyDiff Plugin for TinyMCE
+description = This will beautify the text inside the HTML code editor
+dependencies[] = wysiwyg
+core = 7.x
+package = User interface
+version = 7.x-1.0
